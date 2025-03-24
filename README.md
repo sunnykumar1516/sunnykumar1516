@@ -3,12 +3,12 @@
 Welcome to my GitHub! I'm an AI Engineer passionate about building intelligent systems that make a difference. From training Large Language Models to deploying scalable AI solutions on the cloud, I love solving real-world problems with machine learning and computer vision.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sunnykumar&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sunnykumar&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sunnykumar1516&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sunnykumar1516&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar1516&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sunnykumar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sunnykumar1516&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm an AI Engineer passionate about building intelligent s
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunny-kumar-b232417a/)
 - 🌐 [youtube](https://www.youtube.com/@codewithsny)
 - 🌐 [huggingface spaces(genAI/LLM)](https://huggingface.co/sunny333)
-- ✉️ Email: sunnykumar1516@example.com
+- ✉️ Email: sunnykumar15161516@example.com
   
 
 ---
