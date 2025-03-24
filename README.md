@@ -64,7 +64,8 @@ Generation), embedding generation, and natural language processing.
   <img src="https://github.com/user-attachments/assets/429e331c-df6e-4ec7-a88a-6f09960dabe0" width="45%" />
 </p>
 
-![Body pose detection (1)](https://github.com/user-attachments/assets/f2f7c46b-ded8-4261-be09-dfbf112694d4)
+
+![Body pose detection (1)](https://github.com/user-attachments/assets/1e4510f9-9b8f-4351-8065-c0b63256f31f)
 
 
 
