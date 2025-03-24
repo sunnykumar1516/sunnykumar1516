@@ -54,7 +54,7 @@ Generation), embedding generation, and natural language processing.
 - 🎨 **Diffusion Playground** – Custom-built diffusion model trained on CIFAR-10
 - 📸 **AR App Development** – Built AR prototypes using Unity, ARKit & CoreML
 
-## <span style="color:green"> freelance deployed projects </span>
+ <span style="color:green"> freelance deployed projects </span>
 ---
 
 ![codewithsny](https://github.com/user-attachments/assets/27c82da7-d575-41a0-b9eb-2a7f76dae483)
