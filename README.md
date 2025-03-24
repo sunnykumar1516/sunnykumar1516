@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sunny!
+# 👋 Hey there, I'm Sunny!  | [fine tuned LLM ](https://huggingface.co/sunny333/IndianLawFinetunedModel)|
 
 Welcome to my GitHub! I'm an AI Engineer passionate about building intelligent systems that make a difference. From training Large Language Models to deploying scalable AI solutions on the cloud, I love solving real-world problems with machine learning and computer vision. 
 
@@ -54,7 +54,7 @@ Generation), embedding generation, and natural language processing.
 - 🎨 **Diffusion Playground** – Custom-built diffusion model trained on CIFAR-10
 - 📸 **AR App Development** – Built AR prototypes using Unity, ARKit & CoreML
 
- <span style="color:green"> freelance deployed projects </span>
+##  <span style="color:green"> Freelance deployed projects </span>
 ---
 
 ![codewithsny](https://github.com/user-attachments/assets/27c82da7-d575-41a0-b9eb-2a7f76dae483)
@@ -62,9 +62,6 @@ Generation), embedding generation, and natural language processing.
   <img src="https://github.com/user-attachments/assets/f71e6f3d-76d2-4656-af55-05b929591e50"  width="45%" />
   <img src="https://github.com/user-attachments/assets/429e331c-df6e-4ec7-a88a-6f09960dabe0" width="45%" />
 </p>
-
-
-
 
 
 
