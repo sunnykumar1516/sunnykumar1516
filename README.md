@@ -34,9 +34,11 @@ Welcome to my GitHub! I'm an AI Engineer passionate about building intelligent s
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- ✉️ Email: you@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sunny-kumar-b232417a/)
+- 🌐 [youtube](https://www.youtube.com/@codewithsny)
+- 🌐 [huggingface spaces]([https://www.youtube.com/@codewithsny](https://huggingface.co/sunny333))
+- ✉️ Email: sunnykumar1516@example.com
+  
 
 ---
 
