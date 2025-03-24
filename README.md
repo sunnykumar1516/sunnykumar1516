@@ -55,8 +55,11 @@ Generation), embedding generation, and natural language processing.
 - 📸 **AR App Development** – Built AR prototypes using Unity, ARKit & CoreML
 
 ## freelance deployed projects
-<img src="https://github.com/user-attachments/assets/f71e6f3d-76d2-4656-af55-05b929591e50" width="500" height="500" />
-<img src="https://github.com/user-attachments/assets/429e331c-df6e-4ec7-a88a-6f09960dabe0" width="500" height="500" />
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f71e6f3d-76d2-4656-af55-05b929591e50"  width="45%" />
+  <img src="https://github.com/user-attachments/assets/429e331c-df6e-4ec7-a88a-6f09960dabe0" width="45%" />
+</p>
+
 
 ![OCR](https://github.com/user-attachments/assets/f71e6f3d-76d2-4656-af55-05b929591e50)
 ![Body pose detection (2)](https://github.com/user-attachments/assets/429e331c-df6e-4ec7-a88a-6f09960dabe0)
