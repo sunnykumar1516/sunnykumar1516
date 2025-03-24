@@ -1,6 +1,16 @@
 # 👋 Hey there, I'm Sunny!
 
-Welcome to my GitHub! I'm an AI Engineer passionate about building intelligent systems that make a difference. From training Large Language Models to deploying scalable AI solutions on the cloud, I love solving real-world problems with machine learning and computer vision.
+Welcome to my GitHub! I'm an AI Engineer passionate about building intelligent systems that make a difference. From training Large Language Models to deploying scalable AI solutions on the cloud, I love solving real-world problems with machine learning and computer vision. 
+
+# current work and responsibilities
+Currently working at ToddlerLab,
+London for creating AI enabled simulation for study of brain functions
+in children with ADHD. Expertise includes creating innovative
+solutions, such as the Dulux Visualizer app for AR-based wall colouring
+and Olay Smart Wand for facial analysis using ML and deep learning.
+Expertise in designing and deploying applications leveraging Large
+Language Models (LLMs) with a focus on RAG (Retrieval-Augmented
+Generation), embedding generation, and natural language processing.
 
 # 📊 Sunny's GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sunnykumar1516&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykumar1516&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
