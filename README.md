@@ -1,6 +1,7 @@
-# 👋 Hey there, I'm Sunny!  | [fine tuned LLM ](https://huggingface.co/sunny333/IndianLawFinetunedModel)|
+# 👋 Hey there, I'm Sunny!  
 
 Welcome to my GitHub! I'm an AI Engineer passionate about building intelligent systems that make a difference. From training Large Language Models to deploying scalable AI solutions on the cloud, I love solving real-world problems with machine learning and computer vision. 
+| [fine tuned LLM ](https://huggingface.co/sunny333/IndianLawFinetunedModel)| 
 
 # current work and responsibilities
 Currently working at ToddlerLab,
