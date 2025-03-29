@@ -75,7 +75,7 @@ Generation), embedding generation, and natural language processing.
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunny-kumar-b232417a/)
 - 🌐 [youtube](https://www.youtube.com/@codewithsny)
 - 🌐 [huggingface spaces(genAI/LLM)](https://huggingface.co/sunny333)
-- ✉️ Email: sunnykumar15161516@example.com
+- ✉️ Email: sunnykumar1516@example.com
   
 
 ---
